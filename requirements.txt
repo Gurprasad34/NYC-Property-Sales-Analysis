@@ -1,0 +1,8 @@
+pandas
+requests
+SQLAlchemy
+PyMySQL
+python-dotenv
+matplotlib
+seaborn
+scipy
